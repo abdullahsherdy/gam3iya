@@ -12,7 +12,6 @@ A rotating savings circle (gam'iya) manager, built over 16 weeks as the flagship
 | [docs/adr/README.md](docs/adr/README.md) | Architecture decisions with alternatives and reversal rules | Write each ADR in the week shown |
 | [plan/technical-plan.md](plan/technical-plan.md) | Hours, schedule, checkpoint, cut order, milestones and work packages, risks | Every week |
 | [plan/technical-plan.yml](plan/technical-plan.yml) | Machine-readable twin of the plan | Tooling |
-| [study-guides/](study-guides/) | One study guide per week (16 Word files) | Sent before each week |
 
 ## How to start (week 1)
 
